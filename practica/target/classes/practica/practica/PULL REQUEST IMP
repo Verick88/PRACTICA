@@ -1,0 +1,10 @@
+PULL REQUEST
+Primero hay que darle en fork para copiar el proyecto en nuestro repositorio
+Luego se clona el proyecto copiando el link de github del proyecto 
+Ese link se pega en File-Clone en github desktop
+Una vez clonado guardamos el archivo donde se pueda ver para abrirlo en visual studio code
+Seleccionamos la carpeta y podemos empezar a utilizarlo
+Una vez terminado se selecciona github desktop y se puede ver los cambios que se hicieron
+En la esquina inferior izquierda se le agrega el nombre Examen1 Erick y Gabriel
+Click en FETCH ORIGIN
+Una vez subido sarle en branch y pull request
